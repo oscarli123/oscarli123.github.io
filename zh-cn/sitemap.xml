@@ -2,6 +2,91 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/categories/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/categories/"
+                    /></url><url>
+            <loc>/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/"
+                    /></url><url>
+            <loc>/posts/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/posts/"
+                    /></url><url>
+            <loc>/tags/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/tags/"
+                    /></url><url>
+            <loc>/tags/%E5%8E%86%E5%8F%B2/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/%E5%8E%86%E5%8F%B2/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/the_end_of_history_and_the_last_man/</loc><lastmod>2022-07-06T22:49:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/the_end_of_history_and_the_last_man/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/the_end_of_history_and_the_last_man/"
+                    /></url><url>
+            <loc>/an_essay_concerning_human_understanding/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/an_essay_concerning_human_understanding/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/an_essay_concerning_human_understanding/"
+                    /></url><url>
+            <loc>/tags/%E7%90%86%E8%A7%A3/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/%E7%90%86%E8%A7%A3/</loc><lastmod>2022-07-06T22:13:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/tags/society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/tags/society/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/tags/society/"
+                    /></url><url>
+            <loc>/categories/society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/categories/society/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/categories/society/"
+                    /></url><url>
+            <loc>/the_discovery_of_society/</loc><lastmod>2022-07-06T18:03:18&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/the_discovery_of_society/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="/the_discovery_of_society/"
+                    /></url><url>
             <loc>/tags/capital/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -11,15 +96,6 @@
                     hreflang="zh-cn"
                     href="/tags/capital/"
                     /></url><url>
-            <loc>/categories/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/categories/"
-                    /></url><url>
             <loc>/tags/investment/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -28,33 +104,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="/tags/investment/"
-                    /></url><url>
-            <loc>/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/"
-                    /></url><url>
-            <loc>/posts/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/posts/"
-                    /></url><url>
-            <loc>/tags/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="/tags/"
                     /></url><url>
             <loc>/categories/%E6%8A%95%E8%B5%84/</loc><lastmod>2022-06-05T23:40:34&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
